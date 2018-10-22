@@ -17,3 +17,12 @@ a {
     width: 30px;
     margin: 15px;
 }
+.-image{
+    width: 200px;
+    margin: 3px;
+}
+.gallery{display:flex;
+    
+}
+.navbar{display:flex;
+justify-content:space-between;}
